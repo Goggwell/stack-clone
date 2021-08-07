@@ -4,6 +4,8 @@ Simple project using Three.js and GSAP 3.
 
 You can play it [here](https://stackclone-bfbc3.web.app).
 
+Song was made using [FL Studio](https://www.image-line.com). Available to download inside stack-clone/sound
+
 NOTE: For dependencies, you only need [gsap](https://www.npmjs.com/package/gsap) and [three](https://www.npmjs.com/package/three) for the core game. The others are just for building/hosting.
 
 ## Installation
