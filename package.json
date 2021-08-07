@@ -1,0 +1,19 @@
+{
+  "name": "stack-clone",
+  "version": "1.0.0",
+  "description": "Clone of Stack Game",
+  "scripts": {
+    "build": "browserify src/index.js -o build/bundle.js",
+    "start": "budo src/index.js:build/bundle.js --port 3000"
+  },
+  "dependencies": {
+    "acorn": "^8.4.1",
+    "browserify": "^17.0.0",
+    "budo": "^11.6.4",
+    "gsap": "^3.7.1",
+    "npm": "^7.20.5",
+    "serve": "^12.0.0",
+    "start": "^5.1.0",
+    "three": "^0.131.3"
+  }
+}
